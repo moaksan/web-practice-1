@@ -1,5 +1,5 @@
 # LINK
-moaksan.github.io/web-practice-1/
+<moaksan.github.io/web-practice-1/>
 
 # 웹 개발 첫번째 연습 
 
