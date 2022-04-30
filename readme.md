@@ -1,3 +1,6 @@
+# LINK
+moaksan.github.io/web-practice-1/
+
 # 웹 개발 첫번째 연습 
 
 유튜브 페이지를 모방해서 만들었다.
